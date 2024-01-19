@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "insert_file_description&Sequence_1",
+        "target_excel_sheet_name&Sequence_1",
+        "target_excel_cell&Sequence_1",
+        "target_excel_path&Sequence_1",
+        "insert_file_icon&Sequence_1",
+        "insert_file_path&Sequence_1",
+        "error_message&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
